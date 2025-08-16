@@ -3,8 +3,6 @@ layout: page
 title: TuPlay Spelförening
 ---
 
-
-
 ## Om oss
 TuPlay är en förening som grundades hösten 2012 av ett gäng elever på Tullängsskolan med syftet att anordna LAN på skolan. Sedan dess har föreningen anordnat totalt elva LAN och har nu planer på TuPlay: Open 2017 till hösten. Vi har vuxit ur Tullängsskolan och anordnade de senaste fyra LAN:en på Scenit Kulturhuset i Örebro, där även TuPlay: Open 2017 kommer arrangeras. Förra LAN:et var fullbokat av 180 deltagare med bordsplats och vi kommer nästa gång ha lika många platser tillgängliga, men satsa mer på övriga aktiviteter runt LAN:et.
 
