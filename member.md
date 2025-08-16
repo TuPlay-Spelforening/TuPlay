@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bli medlem!
+title: Bli medlem
 ---
 
 ## Bli medlem i föreningen

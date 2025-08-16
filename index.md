@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TuPlay Spelförening
+title: Hem
 ---
 
 ## Välkommen!
